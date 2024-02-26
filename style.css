@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding :0;
+    text-align: center;
+    padding-left: 50cap;
+    padding-top: 25cap;
+    background-color: rgb(226, 156, 3);
+    background: linear-gradient(to left,red,#72e232);
+    align-items: center;
+    display: flex;
+
+}
+.Login{
+   width: 350px;
+   height: 200px;
+   background-color: rgb(15, 113, 199);
+   background: linear-gradient(to right, green,blue);
+   border-radius: 10px;
+}
+button{
+    width: 100px;
+    background-color: #695b69;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: oblique;
+}
+label{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
